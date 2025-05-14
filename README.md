@@ -1,8 +1,4 @@
-<p># 👨‍💻 <b>Alex Franquesa</b><br>
-<i>Aspiring Software Engineer | Clean Code Enthusiast | Retro Game Dev Lover</i> 🎮</p><p>
-📍 Barcelona, Spain<br>
-🔗 <a href="https://github.com/alexfranquesa">GitHub</a> • <a href="https://www.linkedin.com/in/alex-franquesa-cardenal-7a4a93254/">LinkedIn</a><br>
-📧 alex.franquesa@epitech.eu</p><p>
+<h1 align="center">👨‍💻 <strong>Alex Franquesa</strong></h1> <p align="center"><em>Aspiring Software Engineer | Clean Code Enthusiast | Retro Game Dev Lover</em> 🎮</p> <p align="center">📍 Barcelona, Spain <br>🔗 <a href="https://github.com/alexfranquesa">GitHub</a> • <a href="https://www.linkedin.com/in/alex-franquesa-cardenal-7a4a93254/">LinkedIn</a> <br>📧 alex.franquesa@epitech.eu</p>
 ---</p><p>
 ## 🚧 Projects I've Built at Epitech</p><p>
 ### 🎮 <b>Arcade</b><br>
