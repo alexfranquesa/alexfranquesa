@@ -1,5 +1,5 @@
   <h1 align="center">👨‍💻 <strong>Alex Franquesa</strong></h1>
-  <p align="center"><em>Aspiring Software Engineer | Clean Code Enthusiast | AI lover</em> 🎮</p>
+  <p align="center"><em>Aspiring Software Engineer | Clean Code Enthusiast | AI lover</em> </p>
 
   <p align="center">
     📍 <strong>Barcelona, Spain</strong><br>
