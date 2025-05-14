@@ -1,18 +1,29 @@
-<h1 align="center">Hi 👋, I'm Alex Franquesa</h1>
-<h3 align="center">I'm a "Software Developer an IT Expert" currently learnig at Epitech. Here I have some of my projects that I have developed during my first year here and of which I am very proud</h3>
-
-- 🌱 I’m currently learning **C, Python and Full-Stack**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alexfranquesa?tab=repositories](https://github.com/alexfranquesa?tab=repositories)
-
-- 📫 How to reach me **alex.franquesa@epitech.eu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-franquesa-cardenal-7a4a93254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-franquesa-cardenal-7a4a93254/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alexfranquesa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alexfranquesa_/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p># 👨‍💻 <b>Alex Franquesa</b><br>
+<i>Aspiring Software Engineer | Clean Code Enthusiast | Retro Game Dev Lover</i> 🎮</p><p>
+📍 Barcelona, Spain<br>
+🔗 <a href="https://github.com/alexfranquesa">GitHub</a> • <a href="https://www.linkedin.com/in/alex-franquesa-cardenal-7a4a93254/">LinkedIn</a><br>
+📧 alex.franquesa@epitech.eu</p><p>
+---</p><p>
+## 🚧 Projects I've Built at Epitech</p><p>
+### 🎮 <b>Arcade</b><br>
+<i>A modular retro gaming platform built in C++</i><br>
+&gt; Swap between classic games and graphics engines at runtime using dynamic libraries. Emphasizes plugin architecture, clean OOP design, and runtime flexibility.</p><p>
+### 🐳 <b>Popeye</b><br>
+<i>A multi-container polling app with full-stack tech integration</i><br>
+&gt; 🐍 Flask for vote collection → 🧠 Redis queue → ☕ Java worker → 🐘 PostgreSQL → 🟢 Node.js for real-time results. All deployed in Docker containers. Clean, modular, and production-style setup!</p><p>
+### 🧩 <b>SettingUp</b><br>
+<i>A C program to find the largest square on a board avoiding obstacles</i><br>
+&gt; Reads a map from a file and visually marks the largest possible square by replacing characters — a classic algorithm challenge in C with file I/O and parsing.</p><p>
+### 🏹 <b>Hunter</b><br>
+<i>A 2D shooting game made using CSFML</i><br>
+&gt; Built in C, this arcade-style project introduces game loops, sprite handling, collision, and event management.</p><p>
+### 📦 <b>Sokoban</b><br>
+<i>A terminal-based puzzle game in C using <code>ncurses</code></i><br>
+&gt; Move crates to target spots on a grid. Focused on user input, state management, and terminal graphics.</p><p>
+---</p><p>
+## 🛠️ Technologies I Work With</p><p>
+- Languages: <code>C</code>, <code>C++</code>, <code>Python</code>, <code>JavaScript</code><br>
+- Tools & Frameworks: <code>Docker</code>, <code>Node.js</code>, <code>Flask</code>, <code>PostgreSQL</code>, <code>CSFML</code>, <code>ncurses</code>, <code>Redis</code><br>
+- Dev Practices: Modular design, CLI utilities, OOP in C++, containers, and real-time systems</p><p>
+---</p><p>
+&gt; <i>“Learning by building — one project at a time.”</i> 🛠️</p>
